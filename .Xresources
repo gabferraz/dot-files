@@ -1,0 +1,79 @@
+!! Colorscheme
+!.foreground:   #f5e1e4
+!.background:   #0d0c0c
+!.cursorColor:  #f5e1e4
+
+! black
+!.color0:       #121010
+!.color8:       #f174ff
+
+! red
+!.color1:       #282424
+!.color9:       #f495ff
+
+! green
+!.color2:       #322d2d
+!.color10:      #f7adff
+
+! yellow
+!.color3:       #3b3636
+!.color11:      #f9c0ff
+
+! blue
+!.color4:       #474141
+!.color12:      #67aae8
+
+! magenta
+!.color5:       #4b4343
+!.color13:      #87b9e8
+
+! cyan
+!.color6:       #635b5b
+!.color14:      #a7c8e8
+
+! white
+!.color7:       #766c6c
+!.color15:      #c0d5e8
+! special
+*.foreground:   #fbe8f3
+*.background:   #191517
+*.cursorColor:  #fbe8f3
+
+! black
+*.color0:       #713d92
+*.color8:       #b48cce
+
+! red
+*.color1:       #8f5fad
+*.color9:       #d6bce7
+
+! green
+*.color2:       #cb6aa5
+*.color10:      #f0c0dd
+
+! yellow
+*.color3:       #ac4282
+*.color11:      #df94c1
+
+! blue
+*.color4:       #7767b2
+*.color12:      #c8bfe9
+
+! magenta
+*.color5:       #554497
+*.color13:      #a093d1
+
+! cyan
+*.color6:       #dad953
+*.color14:      #fffea9
+
+! white
+*.color7:       #95958a
+*.color15:      #ffffeb
+
+!! URxvt Configuration
+URxvt*scrollBar: false
+URxvt*font: xft:lucy tewi:pixelsize=10
+URxvt*internalBorder: 25
+URxvt.perl-ext-common: clipboard
+
